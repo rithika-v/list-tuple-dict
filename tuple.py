@@ -1,0 +1,5 @@
+t=("c","c++","Java")
+print(t)
+print("length of the tuple is:")
+print(len(t))
+print(t[0])
